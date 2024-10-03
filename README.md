@@ -26,7 +26,7 @@
    </a>
   &emsp;
   <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white">
   </a>
   &emsp;
    <a>
