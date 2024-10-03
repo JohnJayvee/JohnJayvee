@@ -90,11 +90,19 @@
   </a>
   &emsp;
    <a>
+    <img alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
+  </a>
+  &emsp;
+   <a>
     <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white">
   </a>
   &emsp;
   <a>
     <img alt="react" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="VUE" src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D"/>
   </a>
   &emsp;
   <a>
