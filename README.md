@@ -66,6 +66,10 @@
   </a>
   &emsp;
    <a>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
+  </a>
+  &emsp;
+   <a>
     <img alt="tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
   </a>
   &emsp;
