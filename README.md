@@ -58,7 +58,7 @@
   </a>
   &emsp;
   <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
+    <img alt="react" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
   </a>
   &emsp;
   <a>
