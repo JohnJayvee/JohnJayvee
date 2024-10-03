@@ -54,7 +54,7 @@
   </a>
   &emsp;
    <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
+    <img alt="tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
   </a>
   &emsp;
   <a>
@@ -66,7 +66,7 @@
   </a>
   &emsp;
   <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/>
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/>
   </a>
 </p>
 
