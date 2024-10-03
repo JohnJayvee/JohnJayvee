@@ -38,7 +38,7 @@
   </a>
   &emsp; 
   <a> 
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white">
   </a> 
   &emsp;
   <a> 
