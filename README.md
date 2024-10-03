@@ -84,9 +84,9 @@
 </p>
 
 -----
-<p align="center">
+<p align="center" style="mt-8">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=johnjayvee&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
-  <img src ="https://github-contributor-stats.vercel.app/api?username=johnjayvee&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  #<img src ="https://github-contributor-stats.vercel.app/api?username=johnjayvee&limit=5&theme=dark&combine_all_yearly_contributions=true">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=johnjayvee&theme=vue-dark&hide_border=false">
   <br>
   <br>
