@@ -61,6 +61,10 @@
     <img alt="tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
   </a>
   &emsp;
+   <a>
+    <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white">
+  </a>
+  &emsp;
   <a>
     <img alt="react" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
   </a>
