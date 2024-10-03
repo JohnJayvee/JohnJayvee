@@ -38,7 +38,7 @@
   </a>
   &emsp; 
   <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/-PHP-brightgreen?logo=php&logoColor=white">
   </a> 
   &emsp;
   <a> 
