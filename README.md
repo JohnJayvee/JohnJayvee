@@ -26,7 +26,7 @@
    </a>
   &emsp;
   <a> 
-     <img alt="expressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+     <img alt="expressJS" src="https://img.shields.io/badge/Express.js-404D59?">
    </a>
   &emsp;
   <a> 
