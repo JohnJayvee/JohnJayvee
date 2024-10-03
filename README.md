@@ -26,6 +26,10 @@
    </a>
   &emsp;
   <a> 
+     <img alt="expressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+   </a>
+  &emsp;
+  <a> 
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white">
   </a>
   &emsp;
