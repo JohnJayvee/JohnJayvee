@@ -11,6 +11,14 @@
 
   <a> 
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+  </a>
+  &emsp;
+  <a> 
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white">
   </a> 
   &emsp;
   <a> 
@@ -27,6 +35,14 @@
   &emsp;
   <a> 
      <img alt="expressJS" src="https://img.shields.io/badge/Express.js-404D59?">
+   </a>
+  &emsp;
+  <a> 
+     <img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?logo=json-web-tokens&logoColor=pink">
+   </a>
+  &emsp;
+  <a> 
+     <img alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?logo=sequelize&logoColor=blue">
    </a>
   &emsp;
   <a> 
