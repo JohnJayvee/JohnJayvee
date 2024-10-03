@@ -10,6 +10,10 @@
 <p align="left"> 
 
   <a> 
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+  </a> 
+  &emsp;
+  <a> 
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
   </a> 
   &emsp;
