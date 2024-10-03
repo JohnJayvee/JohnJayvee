@@ -75,10 +75,10 @@
   <a href="https://www.instagram.com/johnjayvee06/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
+  <a href="https://www.facebook.com/JohnJayveeSiuagan" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
+  <a href="https://www.upwork.com/freelancers/~01fef06ac7767e441d" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
       alt="Viral Bhadeshiya" height="30" width="auto" /></a>
 </p>
