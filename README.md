@@ -64,6 +64,10 @@
   <a>
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
   </a>
+  &emsp;
+  <a>
+    <img alt="NGINX" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/>
+  </a>
 </p>
 
 
