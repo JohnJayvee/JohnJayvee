@@ -66,7 +66,7 @@
   </a> 
   &emsp;
   <a> 
-    <img alt="Django" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white">
   </a> 
   &emsp;
   <a> 
